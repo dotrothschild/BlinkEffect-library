@@ -1,3 +1,3 @@
 How to use BlinkEffect:
-blink(view) where view is the object to blink
-Example: blink(binding.textviewFirst) 
+/nblink(view) where view is the object to blink
+/nExample: blink(binding.textviewFirst) 
